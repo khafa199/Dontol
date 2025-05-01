@@ -1,3 +1,8 @@
 [
-  {}
+  {
+    "id": 1,
+    "tanggal": "2025-05-01",
+    "jumlah": 100000,
+    "deskripsi": "Pembelian alat tulis"
+  }
 ]
